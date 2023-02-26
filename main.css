@@ -57,4 +57,7 @@ textarea,.textarea{
     textarea, .textarea{
         margin: 0 !important;
     }
+    .a1, .a2 {
+    padding:unset;
+    }
 }
