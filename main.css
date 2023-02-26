@@ -58,6 +58,6 @@ textarea,.textarea{
         margin: 0 !important;
     }
     .a1, .a2 {
-    padding:unset;
+    padding:10px 0px;
     }
 }
