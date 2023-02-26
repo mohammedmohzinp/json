@@ -49,3 +49,12 @@ textarea,.textarea{
     background: rgb(36, 95, 36);
     color: white;
 }
+
+@media screen and (max-width: 768px) {
+    .json_body{
+    flex-direction: column !important;
+    }
+    textarea, .textarea{
+        margin: 0 !important;
+    }
+}
